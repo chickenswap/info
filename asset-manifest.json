@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/static/js/main.bdf748f8.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/static/js/main.bdf748f8.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/static/js/runtime-main.e526c010.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/static/js/runtime-main.e526c010.js.map",
+    "static/js/2.fbc59ff7.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/static/js/2.fbc59ff7.chunk.js",
+    "static/js/2.fbc59ff7.chunk.js.map": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/static/js/2.fbc59ff7.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/index.html",
+    "precache-manifest.002288ca207c497d30f9d81b9c7cab15.js": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/precache-manifest.002288ca207c497d30f9d81b9c7cab15.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/service-worker.js",
+    "static/js/2.fbc59ff7.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/static/js/2.fbc59ff7.chunk.js.LICENSE.txt",
+    "static/media/eth.png": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/static/media/eth.73dabb37.png",
+    "static/media/logo.svg": "https://cdn.jsdelivr.net/gh/chickenswap/info@main/static/media/logo.5827780d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e526c010.js",
+    "static/js/2.fbc59ff7.chunk.js",
+    "static/js/main.bdf748f8.chunk.js"
+  ]
+}
